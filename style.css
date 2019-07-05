@@ -11,7 +11,7 @@ img {
   text-align: center
 }
 
-nav a {
+nav {
   padding-left: 10px;
   padding-right: 10px;
   background-color: grey
@@ -26,8 +26,8 @@ p {
   width: 800px;
 }
 
-#details a {
-  display: horizontal;
+#details  {
+  display: block;
   float: left
 }
 
